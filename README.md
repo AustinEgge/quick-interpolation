@@ -13,6 +13,7 @@ It provides an easy-to-use interface for selecting interpolation types and apply
 
 ## Usage
 - Navigate to the Material Properties tab in Blender.
+- Expand the "Quick Interpolation" property.
 - Select the desired interpolation type from the dropdown menu.
 - Choose whether to apply the settings to all textures in the scene or just the active material.
 - Click the "Apply Interpolation" button to apply the selected settings.
