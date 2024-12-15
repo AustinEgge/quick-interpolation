@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "quick_interpolation"
+version = "1.0.0"
+name = "Quick Interpolation"
+tagline = "Easily apply texture interpolation settings across textures"
+maintainer = "Austin Egge <austinegge@gmail.com>"
+type = "add-on"
+blender_version_min = "4.2.0"
+tags = ["Material", "User Interface"]
+license = ["SPDX:GPL-3.0-or-later",]
+copyright = ["2024 Austin Egge",]
+platforms = ["windows-x64", "macos-arm64", "linux-x64"]
